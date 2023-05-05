@@ -1,0 +1,2 @@
+# projeamk
+projennnnii şimdi
