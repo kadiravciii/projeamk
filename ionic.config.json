@@ -1,0 +1,7 @@
+{
+  "name": "arackiralamaprojesi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
